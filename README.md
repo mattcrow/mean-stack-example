@@ -30,7 +30,7 @@
 ## How to use
 
 - Clone the repository:  
-  `git clone https://github.com/mattcrow/mean-stack-example.git myapp`
+  `git clone https://github.com/mattiacorvaglia/mean-stack-example.git myapp`
 - Install **NodeJS** dependencies:  
   `cd myapp`  
   `npm install`
@@ -40,6 +40,8 @@
 
 ![homepage](./screenshot_1.png)
 ![post detail page](./screenshot_2.png)
+
+See it in action: [http://mean-mattdev.rhcloud.com/](http://mean-mattdev.rhcloud.com/)
 
 ## Create the app from your own
 
